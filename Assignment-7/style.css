@@ -1,0 +1,67 @@
+body {
+    background: #f0eaea;
+}
+
+fieldset {
+    border: 2px solid #949393; /* Border styling */
+    border-radius: 8px; /* Optional: rounded corners */
+    padding: 15px; /* Space inside the border */
+    width: auto; /* Adjust form width */
+}
+
+legend {
+    font-weight: bold; /* Bold heading */
+    color: #333; /* Heading text color */
+    font-size: 1.2em; /* Adjust heading size */
+}
+
+label {
+    display: block; /* Display elements in a column */
+    margin-bottom: 10px; /* Space between inputs */
+}
+
+input {
+    padding: 6px;
+    border-radius: 8px;
+    margin-top: 7px;
+    border-color: aliceblue;
+}
+
+.inline , #ppp {
+    display: inline;
+    margin-right: 5px;
+
+}
+
+#p2 {
+    margin-top: 25px; 
+    font-size: large;
+}
+
+#ppp {
+    font-size: large;
+}
+.div {
+    background-color: rgb(196, 193, 193);
+    border-radius: 100px;
+    height: 15px;
+    width: 15px;
+    display: inline-block;
+    margin-right: 10px;
+    border-color: #000000;
+}
+
+.line  {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.com {
+    font-size: large;
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    background-color: #949393;
+}
